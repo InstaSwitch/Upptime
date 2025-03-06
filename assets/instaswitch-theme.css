@@ -7,7 +7,7 @@
   --card-text-color: #073b4c; /* Dark text for content on white cards */
 
   /* Navigation */
-  --nav-background-color: #003238; /* Dark teal for nav */
+  --nav-background-color: #073b4c; /* Dark teal for nav */
   --nav-border-bottom-color: #00E676; /* Bright green accent */
   --nav-text-color: #FFFFFF; /* White nav text */
   
@@ -23,4 +23,49 @@
   --down-border-left-color: #FF3B30; /* Red for "down" */
   --down-background-color: rgba(255, 59, 48, 0.1); /* Light red background */
   --down-text-color: #FF3B30; /* Red text */
+
+  /* Target text inside components more specifically based on HTML structure */
+  .component-inner-container {
+    color: #073b4c !important;
+  }
+
+  /* Target all content within specific sections */
+  main section > div > div {
+    color: #073b4c !important;
+  }
+
+  /* Target live status text */
+  .live-status * {
+    color: #073b4c !important;
+  }
+
+  /* Target all headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF !important; /* Keep headings white for contrast on dark background */
+  }
+
+  /* Target card/component headers */
+  .component-inner-container h4 {
+    color: #073b4c !important;
+  }
+
+  /* Override text color in all component containers */
+  .component {
+    color: #073b4c !important;
+  }
+
+  /* Additional fix for SVG text */
+  text {
+    fill: #073b4c !important;
+  }
+
+  /* Fix for time labels */
+  .history-heading, .status-day {
+    color: #073b4c !important;
+  }
+
+  /* Fix for loading indicators */
+  .loading {
+    color: #073b4c !important;
+  }
 }
