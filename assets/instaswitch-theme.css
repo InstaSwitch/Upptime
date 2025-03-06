@@ -68,4 +68,28 @@
   .loading {
     color: #073b4c !important;
   }
+
+  /* Fix for the overall status indicator */
+  .contain-content > div:first-child {
+    color: #003238 !important;
+  }
+
+  /* Alternative targeting for overall status text */
+  div[role="status"], 
+  div[role="status"] strong,
+  div[role="alert"],
+  div[role="alert"] strong {
+    color: #003238 !important;
+  }
+
+  /* Even more specific targeting for the all systems operational text */
+  section:first-of-type > div > div {
+    color: #003238 !important;
+  }
+
+  /* Target the checkmark and text directly */
+  section > div > div > span,
+  section > div > div > strong {
+    color: #003238 !important;
+  }
 }
