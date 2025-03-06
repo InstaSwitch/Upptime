@@ -9,15 +9,14 @@ sites:
 
 status-website:
   cname: status.instaswitch.co
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
+  favicon: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
+  name: InstaSwitch
+  introTitle: "**InstaSwitch Status** - Real-time monitoring of InstaSwitch services"
+  introMessage: This page provides current operational status for all InstaSwitch services. We continuously monitor our systems and automatically update this page when issues are detected. For support inquiries, please contact our team at support@instaswitch.co.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: InstaSwitch
+      href: https://instaswitch.co
+  theme: ocean
