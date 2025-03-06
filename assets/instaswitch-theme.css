@@ -1,10 +1,11 @@
 :root {
   /* Main site colors */
-  --body-background-color: #003238; /* Dark teal background */
+  --body-background-color: #073b4c; /* Dark teal background */
   --body-text-color: #FFFFFF; /* White text */
   --card-background-color: #FFFFFF; /* White card backgrounds */
   --card-border-color: #e0e0e0; /* Light gray border */
-  
+  --card-text-color: #073b4c; /* Dark text for content on white cards */
+
   /* Navigation */
   --nav-background-color: #003238; /* Dark teal for nav */
   --nav-border-bottom-color: #00E676; /* Bright green accent */
