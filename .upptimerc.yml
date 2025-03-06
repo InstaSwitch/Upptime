@@ -11,6 +11,7 @@ status-website:
   cname: status.instaswitch.co
   logoUrl: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
   favicon: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
+  forceHttps: true
   baseUrl: /
   name: InstaSwitch
   introTitle: "**InstaSwitch Status** - Real-time monitoring of InstaSwitch services"
