@@ -11,6 +11,7 @@ status-website:
   cname: status.instaswitch.co
   logoUrl: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
   favicon: https://cdn.prod.website-files.com/67957401e8aee4ed4476769a/679d476c50bc595bdebcf77b_favicon.png
+  baseUrl: /
   name: InstaSwitch
   introTitle: "**InstaSwitch Status** - Real-time monitoring of InstaSwitch services"
   introMessage: This page provides current operational status for all InstaSwitch services. We continuously monitor our systems and automatically update this page when issues are detected. For support inquiries, please contact our team at support@instaswitch.co.
