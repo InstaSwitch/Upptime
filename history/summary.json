@@ -22,19 +22,19 @@
     "url": "https://www.instaswitch.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.instaswitch.co.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 182,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 279,
+    "timeDay": 227,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 6
     }
   }
 ]
