@@ -21,5 +21,5 @@ status-website:
     - title: InstaSwitch
       href: https://instaswitch.co
     - title: Changelog
-      href: /static_pages/changelog
+      href: /changelog
   themeUrl: https://status.instaswitch.co/instaswitch-theme.css
