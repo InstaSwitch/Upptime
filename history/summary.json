@@ -4,9 +4,9 @@
     "url": "https://app.instaswitch.co/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/app.instaswitch.co.ico",
     "slug": "insta-switch-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 318,
     "timeMonth": 251,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-18": 0
+    }
   },
   {
     "name": "Landing Page",
@@ -33,6 +35,8 @@
     "timeWeek": 338,
     "timeMonth": 308,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-18": 0
+    }
   }
 ]
