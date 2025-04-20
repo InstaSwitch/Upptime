@@ -6,15 +6,15 @@
     "slug": "insta-switch-platform",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 244,
-    "timeDay": 450,
-    "timeWeek": 335,
+    "time": 242,
+    "timeDay": 103,
+    "timeWeek": 310,
     "timeMonth": 267,
-    "timeYear": 244,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2025-04-18": 64
     }
@@ -26,15 +26,15 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 302,
-    "timeDay": 390,
-    "timeWeek": 327,
-    "timeMonth": 315,
-    "timeYear": 302,
+    "time": 301,
+    "timeDay": 212,
+    "timeWeek": 312,
+    "timeMonth": 313,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-04-18": 64
     }
