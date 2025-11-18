@@ -1,7 +1,7 @@
 url: https://app.instaswitch.co/health_check
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2025-11-17T23:04:38.301Z
+status: down
+code: 500
+responseTime: 145
+lastUpdated: 2025-11-18T11:43:53.037Z
 startTime: 2025-03-06T01:08:29.694Z
 generator: Upptime <https://github.com/upptime/upptime>
