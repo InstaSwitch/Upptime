@@ -3,7 +3,7 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: InstaSwitch Platform
-    url: https://app.instaswitch.co/health_check
+    url: https://api.instaswitch.co/api_health
   - name: Landing Page
     url: https://instaswitch.co
 
