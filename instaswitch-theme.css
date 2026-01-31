@@ -27,14 +27,14 @@
 
   /* Graph colors */
   .graph-wrapper svg .fill-current {
-    fill: #33C759 !important;
+    fill: #00a0fd !important;
   }
 
   .graph-wrapper svg .stroke-current {
-    stroke: #33C759 !important;
+    stroke: #00a0fd !important;
   }
 
   .graph path {
-    stroke: #33C759 !important;
+    stroke: #00a0fd !important;
   }
 }
