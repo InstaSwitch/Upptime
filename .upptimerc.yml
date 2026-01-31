@@ -13,7 +13,7 @@ status-website:
   favicon: https://imagedelivery.net/j3L7QzNIlDWn3v_yG7FjGg/8036fa23-104c-4ca2-645e-8cc2e6ae1f00/public
   forceHttps: true
   baseUrl: /
-  name: InstaSwitch
+  name: ""
   introTitle: "InstaSwitch System Status"
   navbar:
     - title: Status

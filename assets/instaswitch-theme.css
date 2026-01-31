@@ -37,4 +37,24 @@
   .graph path {
     stroke: #00a0fd !important;
   }
+
+  /* Graph area fill (the area under the curve) */
+  .graph-wrapper svg path[fill] {
+    fill: #00a0fd !important;
+    fill-opacity: 0.2 !important;
+  }
+
+  .graph svg path:not([stroke="none"]) {
+    fill: rgba(0, 160, 253, 0.2) !important;
+  }
+
+  /* Target all graph area fills */
+  .history svg path {
+    fill: rgba(0, 160, 253, 0.2) !important;
+  }
+
+  .history svg .stroke-current,
+  .history svg path[stroke] {
+    stroke: #00a0fd !important;
+  }
 }
