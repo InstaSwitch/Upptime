@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 331,
-    "timeDay": 206,
-    "timeWeek": 311,
-    "timeMonth": 287,
+    "time": 332,
+    "timeDay": 525,
+    "timeWeek": 368,
+    "timeMonth": 291,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-11-18": 131,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 246,
-    "timeDay": 62,
-    "timeWeek": 169,
+    "timeDay": 206,
+    "timeWeek": 187,
     "timeMonth": 152,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-10-15": 16,
       "2025-04-18": 64
@@ -48,15 +48,15 @@
     "slug": "developer-documentation",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 157,
-    "timeDay": 145,
-    "timeWeek": 166,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 159,
+    "timeDay": 227,
+    "timeWeek": 183,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2026-04-09": 32
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 230,
-    "timeWeek": 333,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 334,
+    "timeDay": 136,
+    "timeWeek": 321,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   }
 ]
