@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 331,
-    "timeDay": 378,
-    "timeWeek": 302,
+    "time": 332,
+    "timeDay": 383,
+    "timeWeek": 333,
     "timeMonth": 310,
     "timeYear": 346,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 217,
-    "timeWeek": 160,
-    "timeMonth": 155,
-    "timeYear": 235,
+    "time": 245,
+    "timeDay": 333,
+    "timeWeek": 195,
+    "timeMonth": 159,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2025-10-15": 16
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.instaswitch.co.ico",
     "slug": "developer-documentation",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 164,
-    "timeDay": 241,
-    "timeWeek": 185,
-    "timeMonth": 168,
+    "timeDay": 187,
+    "timeWeek": 189,
+    "timeMonth": 169,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-04-09": 32
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 101,
-    "timeWeek": 192,
-    "timeMonth": 297,
-    "timeYear": 299,
+    "time": 301,
+    "timeDay": 370,
+    "timeWeek": 208,
+    "timeMonth": 291,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   }
 ]
