@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 331,
-    "timeDay": 161,
-    "timeWeek": 287,
-    "timeMonth": 328,
+    "timeDay": 433,
+    "timeWeek": 313,
+    "timeMonth": 339,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-11-18": 131
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 253,
-    "timeWeek": 318,
-    "timeMonth": 276,
+    "timeDay": 454,
+    "timeWeek": 335,
+    "timeMonth": 289,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-15": 16
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 161,
-    "timeDay": 85,
-    "timeWeek": 154,
-    "timeMonth": 156,
+    "timeDay": 163,
+    "timeWeek": 151,
+    "timeMonth": 157,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2026-04-09": 32
@@ -66,15 +66,15 @@
     "slug": "sdk-demo",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "93.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.79%",
-    "time": 889,
-    "timeDay": 267,
-    "timeWeek": 4884,
-    "timeMonth": 1590,
-    "timeYear": 889,
+    "time": 884,
+    "timeDay": 557,
+    "timeWeek": 4898,
+    "timeMonth": 1595,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2026-05-20": 122,
       "2026-05-19": 71
