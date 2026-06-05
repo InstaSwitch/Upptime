@@ -1,7 +1,7 @@
 url: https://api.instaswitch.co/api_health
-status: up
-code: 200
-responseTime: 131
-lastUpdated: 2026-06-05T00:13:12.497Z
+status: down
+code: 403
+responseTime: 124
+lastUpdated: 2026-06-05T03:23:18.617Z
 startTime: 2025-03-06T01:08:29.694Z
 generator: Upptime <https://github.com/upptime/upptime>
