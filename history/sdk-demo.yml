@@ -1,7 +1,7 @@
 url: https://demo.instaswitch.co
-status: up
-code: 200
-responseTime: 327
-lastUpdated: 2026-06-04T23:27:26.930Z
+status: down
+code: 429
+responseTime: 465
+lastUpdated: 2026-06-05T17:20:20.949Z
 startTime: 2026-03-17T18:49:44.827Z
 generator: Upptime <https://github.com/upptime/upptime>
