@@ -4,15 +4,15 @@
     "url": "https://api.instaswitch.co/api_health",
     "icon": "https://icons.duckduckgo.com/ip3/api.instaswitch.co.ico",
     "slug": "insta-switch-platform",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "91.03%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "90.14%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "99.79%",
     "time": 323,
-    "timeDay": 236,
-    "timeWeek": 214,
+    "timeDay": 231,
+    "timeWeek": 213,
     "timeMonth": 259,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -22,7 +22,8 @@
       "2026-06-03": 356,
       "2026-06-04": 97,
       "2026-06-05": 238,
-      "2026-06-06": 96
+      "2026-06-06": 96,
+      "2026-06-07": 90
     }
   },
   {
