@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.instaswitch.co.ico",
     "slug": "insta-switch-platform",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 322,
-    "timeDay": 301,
-    "timeWeek": 233,
-    "timeMonth": 264,
+    "timeDay": 290,
+    "timeWeek": 241,
+    "timeMonth": 263,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-18": 131
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 337,
-    "timeWeek": 376,
-    "timeMonth": 291,
-    "timeYear": 239,
+    "timeDay": 258,
+    "timeWeek": 384,
+    "timeMonth": 289,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2025-10-15": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 167,
-    "timeDay": 186,
-    "timeWeek": 208,
-    "timeMonth": 170,
-    "timeYear": 167,
+    "time": 169,
+    "timeDay": 245,
+    "timeWeek": 215,
+    "timeMonth": 175,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2026-04-09": 32
     }
@@ -65,20 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.instaswitch.co.ico",
     "slug": "sdk-demo",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.80%",
-    "time": 804,
-    "timeDay": 251,
-    "timeWeek": 294,
-    "timeMonth": 1565,
-    "timeYear": 804,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.84%",
+    "time": 799,
+    "timeDay": 243,
+    "timeWeek": 298,
+    "timeMonth": 1563,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2026-05-20": 122,
-      "2026-05-19": 71,
-      "2026-06-05": 43
+      "2026-05-19": 71
     }
   }
 ]
