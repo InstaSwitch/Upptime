@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.instaswitch.co.ico",
     "slug": "insta-switch-platform",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "92.16%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.85%",
     "time": 317,
     "timeDay": 203,
     "timeWeek": 236,
@@ -22,7 +22,7 @@
       "2026-06-12": 219,
       "2026-06-13": 35,
       "2026-06-14": 85,
-      "2026-06-15": 0
+      "2026-06-15": 28
     }
   },
   {
