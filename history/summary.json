@@ -6,13 +6,13 @@
     "slug": "insta-switch-platform",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "91.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.80%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.82%",
     "time": 316,
-    "timeDay": 180,
-    "timeWeek": 214,
+    "timeDay": 321,
+    "timeWeek": 183,
     "timeMonth": 242,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 106,
-    "timeWeek": 281,
-    "timeMonth": 307,
-    "timeYear": 239,
+    "timeDay": 201,
+    "timeWeek": 291,
+    "timeMonth": 303,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2025-10-15": 16
     }
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 169,
-    "timeDay": 108,
-    "timeWeek": 168,
-    "timeMonth": 183,
+    "timeDay": 154,
+    "timeWeek": 157,
+    "timeMonth": 181,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-04-09": 32
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.85%",
-    "time": 780,
-    "timeDay": 228,
-    "timeWeek": 540,
-    "timeMonth": 1631,
-    "timeYear": 780,
+    "time": 774,
+    "timeDay": 116,
+    "timeWeek": 506,
+    "timeMonth": 1630,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-05-20": 122,
       "2026-05-19": 71
